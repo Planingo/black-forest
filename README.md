@@ -1,2 +1,2 @@
-# balck-forest
+# black-forest
 Solveur de contrainte de Planingo
