@@ -28,7 +28,7 @@ public class SolverConstraintProxy extends ListenerEngine<SolverConstraintProxyL
      * @param parent     the parent
      * @param constraint the constraint
      * @param dataLinked the data linked
-     * @param model      the model
+     * @param model      le lien avec le model de Choco
      */
     public SolverConstraintProxy(SolverEngine model, ModelConstraintAbstract parent, ModelDataAbstract dataLinked, Constraint constraint) {
         this.parent = parent;
